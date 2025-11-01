@@ -1,0 +1,14 @@
+
+file_format: "1"
+id: split_jp60pct
+name: split_jp60pct
+type: shield
+features:
+  - keys
+  - studio
+outputs:
+  - usb
+  - ble
+siblings:
+  - split_jp60pct_left
+  - split_jp60pct_right
